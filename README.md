@@ -56,6 +56,7 @@ You have to add a line
 ```
 module.exports =  { app, server }
 ```
+
 To the bottom of your app.js, because each of the test files require these values.
 
 You have to configure puppeteer, which depends on Chrome.
